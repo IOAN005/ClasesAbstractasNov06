@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac7e363d-a70d-4731-94a2-afabb6aa2aa0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Bateria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Bateria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Circulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Flauta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Flauta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Guitarra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Guitarra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/InstrumentoMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/InstrumentoMusical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Operador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Operador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Rectangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Vendedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarEmpleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarEmpleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarInstrumentosMusicales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarPolimorfismo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarFigura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarFigura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarInstrumentoMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarInstrumentoMusical.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2XqqyeA6c5PPXiiY1s6AzmFnE7i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,10 +42,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ProbarInstrumentoMusical">
+  <component name="RunManager" selected="Application.ProbarFigura">
     <configuration name="ProbarEmpleado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarEmpleado" />
       <module name="ClasesAbstractasNov07" />
@@ -91,11 +86,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProbarInstrumentosMusicales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarInstrumentosMusicales" />
+      <module name="ClasesAbstractasNov07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProbarPolimorfismo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarPolimorfismo" />
+      <module name="ClasesAbstractasNov07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProbarFigura" />
+        <item itemvalue="Application.ProbarPolimorfismo" />
+        <item itemvalue="Application.ProbarInstrumentosMusicales" />
         <item itemvalue="Application.ProbarInstrumentoMusical" />
         <item itemvalue="Application.ProbarEmpleado" />
-        <item itemvalue="Application.ProbarFigura" />
       </list>
     </recent_temporary>
   </component>
